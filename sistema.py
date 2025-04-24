@@ -475,7 +475,7 @@ def main():
     ttk.Button(button_frame, text="Subir Resolución", command=subir_resolucion).grid(row=4, column=0, padx=10, pady=10, sticky="ew")
     ttk.Button(button_frame, text="Seleccionar PDF y Enviar a DIAN", command=procesar_factura).grid(row=5, column=0, padx=10, pady=10, sticky="ew")
     ttk.Button(button_frame, text="Enviar Nota Débito", command=enviar_nota_debito).grid(row=3, column=0, padx=10, pady=10, sticky="ew")
-
+    ttk.Button(button_frame, text="Salir", command=root.quit).grid(row=6, column=0, padx=10, pady=10, sticky="ew")
 
     root.mainloop()
 
