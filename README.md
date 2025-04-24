@@ -8,6 +8,8 @@
 
 Esta aplicación ha sido diseñada por **Fullsys Tecnología Santa Marta** para facilitar la emisión de facturas electrónicas mediante la integración de programas locales, como **Eleventa**, con los servicios de la DIAN. La herramienta permite procesar archivos PDF, extraer la información necesaria y generar facturas electrónicas que cumplen con los estándares requeridos.
 
+Esta aplicación fue diseñada específicamente para integrar **Eleventa** al sistema de facturación electrónica de Fullsys Tecnología Santa Marta.
+
 ---
 
 ## Características
